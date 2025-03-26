@@ -1,0 +1,19 @@
+# My Portfolio
+
+## 🚀 Overview
+A professional portfolio website to showcase my skills, projects, and contact details.
+
+## 📌 Features
+- About Me Section
+- Skills Showcase
+- Project Display with Links
+- Contact Form
+- Fully Responsive Design
+
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+
+## 📂 Setup
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/portfolio-website.git
